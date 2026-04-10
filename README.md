@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Gustavo}!
+## 💜 Olá, meu nome é Gustavo!
 
 ## Sobre mim
 
@@ -49,6 +49,6 @@ N/A
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-7b9088186/)](https://www.linkedin.com/in/gustavo-santos-7b9088186/)
-[![Gmail Badge](https://img.shields.io/badge/-gustavosantis267@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-gustavosantis267@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosantis267@gmail.com)](mailto:gustavosantis267@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/GustavoSantos18-afk?label=follow&style=social)](https://github.com/GustavoSantos18-afk)
 
