@@ -44,6 +44,8 @@ N/A
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantos18-afk&theme=dracula&show_icons=true" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoSantos18-afk&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-7b9088186/)](https://www.linkedin.com/in/gustavo-santos-7b9088186/)
