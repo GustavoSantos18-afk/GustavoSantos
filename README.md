@@ -50,5 +50,5 @@ N/A
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santos-7b9088186/)](https://www.linkedin.com/in/gustavo-santos-7b9088186/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavosantis267@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/GustavoSantos18-afk?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/GustavoSantos18-afk?label=follow&style=social)](https://github.com/GustavoSantos18-afk)
 
